@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498086613 source:c:\users\giome\documents\trabalhos\programas\ordarq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

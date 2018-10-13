@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492786265 source:c:\users\giome\documents\trabalhos\trabs\main.c
+	<stdio.h>
+	<stdlib.h>
+

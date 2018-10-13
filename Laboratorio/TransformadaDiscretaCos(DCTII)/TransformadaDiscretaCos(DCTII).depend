@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493514087 source:c:\users\giome\documents\trabalhos\programas\transformadadiscretacos(dctii)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

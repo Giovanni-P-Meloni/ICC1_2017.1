@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492806671 source:c:\users\giome\documents\trabalhos\serieprimos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
